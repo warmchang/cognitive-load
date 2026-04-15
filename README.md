@@ -2,7 +2,7 @@
 
 [Prompt](https://github.com/zakirullin/cognitive-load/blob/main/README.prompt.md) | [Blog version](https://minds.md/zakirullin/cognitive) | [Chinese](https://github.com/zakirullin/cognitive-load/blob/main/README.zh-cn.md) | [Japanese](README.ja.md) | [Spanish](README.es.md) | [Korean](README.ko.md) | [Turkish](README.tr.md) | [Brazilian Portuguese](README.pt-br) | [Vietnamese](README.vi.md) | [Nepali](README.np.md)
 
-*It is a living document, last update: **October 2025.** Your contributions are welcome!*
+*It is a living document, last update: **April 2026.** Your contributions are welcome!*
 
 ## Introduction
 There are so many buzzwords and best practices out there, but most of them have failed. They failed because they were imagined, not real. These ideas were based on aesthetics and subjective judgments. We need something more fundamental, something that can't be wrong.
@@ -390,6 +390,7 @@ We should reduce any cognitive load above and beyond what is intrinsic to the wo
     <p><strong>Rob Pike</strong> <i>(Unix, Golang)</i><br>Nice article.</p>
     <p><strong><a href="https://x.com/karpathy/status/1872038630405054853" target="_blank">Andrej Karpathy</a></strong> <i>(ChatGPT, Tesla)</i><br>Nice post on software engineering. Probably the most true, least practiced viewpoint.</p>
     <p><strong><a href="https://x.com/elonmusk/status/1872346903792566655" target="_blank">Elon Musk</a></strong> <i>(Rockets)</i><br>True.</p>
+    <p><strong><a href="https://en.wikipedia.org/wiki/John_Ousterhout" target="_blank">John Ousterhout</a></strong> <i>(Raft, Tcl/Tk)</i><br>This is an interesting article. When working on a large system, the primary limit to development speed isn't how many lines of code you have to write; it's how much information you have to collect in your mind before you know what those lines are.</p>
     <p><strong><a href="https://www.linkedin.com/feed/update/urn:li:activity:7277757844970520576/" target="_blank">Addy Osmani</a></strong> <i>(Chrome, the most complex software system in the world)</i><br>I've seen countless projects where smart developers created impressive architectures using the latest design patterns and microservices. But when new team members tried to make changes, they spent weeks just trying to understand how everything fits together. The cognitive load was so high that productivity plummeted and bugs multiplied.</p>
     <p>The irony? Many of these complexity-inducing patterns were implemented in the name of "clean code."</p>
     <p>What really matters is reducing unnecessary cognitive burden. Sometimes this means fewer, deeper modules instead of many shallow ones. Sometimes it means keeping related logic together instead of splitting it into tiny functions.</p>
